@@ -1,0 +1,20 @@
+.container-padding {
+    padding-left: 10% !important;
+  padding-right: 10% !important;
+  }
+.error-helper-text {
+    color: #5c0606;
+    position: absolute;
+    padding:1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 20px;
+    right: 3%;
+    top: 0%;
+    transform: translateY(-90%);
+    white-space: nowrap;
+    background-color: rgb(236, 188, 188);
+    font-size: 0.75rem;
+     /* Customize this color to match your theme */
+  }
+  
